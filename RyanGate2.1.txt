@@ -1,0 +1,22 @@
+create career/opponent (CO) linked list 
+intital step
+returns a pointer to the total
+allocate career
+new structure CO
+	coPointerHead;// head of CO LL
+	coPointerNext;// next in CO LL
+	coPointerPrev;// prev 
+	coPointerLast;// last in CO LL
+	dataPointerHead; // pointer to head of stats LL
+	string info[50];// career or team name
+
+
+add oppoent to CO
+	allocate opponent and head of stats LL
+		Head of stats LL
+			struct array
+			statsPointerNext
+			statsPointerHead
+			statsPointerPrev
+			statsPointerLast
+		cases
